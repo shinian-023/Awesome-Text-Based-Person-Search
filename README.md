@@ -1,6 +1,3 @@
-<!-- README table section revised according to TPAMI_revision1 Fig. 4 and Table 2. -->
-<!-- Taxonomy keeps separate subsection tables. Each taxonomy table uses the same fixed pixel column widths. -->
-
 ## Table of Contents
 
 - [1️⃣ Taxonomy of TBPS Approaches](#1%EF%B8%8F%E2%83%A3-taxonomy-of-tbps-approaches)
